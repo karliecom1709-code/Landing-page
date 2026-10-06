@@ -1,0 +1,30 @@
+/* Navigation */
+
+.navigation {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background: #F54927; */
+}
+
+.navigation-links {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    color: #000000;
+}
+
+.navigation-links a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.navigation-links a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+/* Hero */
+
+
+
